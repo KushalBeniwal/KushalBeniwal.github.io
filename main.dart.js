@@ -49144,7 +49144,7 @@ q=t.g1
 p=t.p7
 o=t.W
 r=T.zZ(n,M.e9(n,T.a3M(H.b([M.e9(n,L.a1a("Hola!  ",Z.a7T(n,n,n,n,n,n,n,"SeaweedScript",n,n,n,n,P.aF([new Z.dn(C.n,C.iE),new F.ig("6a7c62dc8a68c25b3dda440a08e1f3087e28832110098b91b4c412a906ebafa2",116656)],q,p),n,n,n,n,n,n,n,n),4),n,n,n,n,n,n,n),M.e9(n,T.JN(L.a1a("My name is Kushal. I am a second year undergraduate from India. I love exploring new technologies and I am always up for new experiences and opportunities.\nPronouns: she/her",Z.a7T(n,n,n,n,n,n,n,"NotoSerif",n,n,n,n,P.aF([new Z.dn(C.n,C.iE),new F.ig("756d85930a29b444fc130d6ab854e9f796a951dff740c2bedb926522aa2db185",219488),new Z.dn(C.n,C.l6),new F.ig("3a8f4b27348c68ceb866bc4d52c0eae507c8cf764c1ab8d398805aeb89e40eb6",220592),new Z.dn(C.bE,C.iE),new F.ig("b8ab5cf0042204e461a5d83a980849507daa6ef58dda05725bcfa7403675eb0d",220292),new Z.dn(C.bE,C.l6),new F.ig("fff456cbd82e58d6ca98db85fc03a22b982377a0f7e36525541d06b1eaaa1db0",233960)],q,p),n,n,n,n,n,n,n,n),1.2),n,n),n,n,n,n,n,new V.bd(35,10,50,10),n)],o)),m,n,n,s,n,new V.bd(0,s*0.25,r*0.2,0),r),n,n,k*0.25,n,l*0.2,n)
-return M.e9(n,T.Bz(C.ir,H.b([r,T.zZ(n,M.e9(n,new U.pG(M.afa(n,n,new L.oA("assets/my_photo1.png",n,n)),n),n,n,n,l*0.4,n,new V.bd(0,0,0,0),k*0.2),n,n,k*0.55,n,l*0.3,n)],o),C.ie),C.j,n,n,l,n,n,k)}}
+return M.e9(n,T.Bz(C.ir,H.b([r,T.zZ(n,M.e9(n,new U.pG(M.afa(n,n,new L.oA("assets/assets/my_photo1.png",n,n)),n),n,n,n,l*0.4,n,new V.bd(0,0,0,0),k*0.2),n,n,k*0.55,n,l*0.3,n)],o),C.ie),C.j,n,n,l,n,n,k)}}
 O.vX.prototype={
 O:function(a,b){var s=null
 return M.e9(s,s,s,s,s,s,s,s,s)}}
